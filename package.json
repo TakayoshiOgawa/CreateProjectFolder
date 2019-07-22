@@ -1,0 +1,6 @@
+{
+	"name":"og.editor.createprojectfolder",
+	"displayName": "Create Project Folder",
+	"version": "1.0.0",
+	"description": "This package creates a standard project hierarchy."
+}
